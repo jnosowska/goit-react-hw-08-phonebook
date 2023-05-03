@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <div className={css['wrapper']}>
       <img className={css['image']} src={logo} alt="logo"></img>
-      <h1>Redux Phonebook</h1>
+      <h1>Phonebook</h1>
     </div>
   );
 };

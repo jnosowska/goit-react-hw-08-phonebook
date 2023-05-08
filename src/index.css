@@ -12,6 +12,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(247, 222, 245);
+  background-image: url('2b257b73cb4166e9076bd77f0f7a7e7b.png');
+  background-size: cover;
 }
 
 code {
@@ -56,7 +58,7 @@ button {
 
 button:hover,
 button:focus {
-  transform: scale(1.0);
+  transform: scale(1);
   background-color: #96daeb;
 }
 
